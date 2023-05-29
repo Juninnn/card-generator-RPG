@@ -1,0 +1,15 @@
+{
+  "name": "projeto-card-aleatorio",
+  "version": "1.0.0",
+  "description": "👋 Hi, I’m @Juninm 😎 💥.\r  👀 I’m interested in drawig and designing.\r  🌱 I’m currently learning how to use github and git to make my game!💯💯\t\r  💞️ I’m looking to collaborate on the designing part of a code, because I'm very good at drawing!\r  🤗 wanna be my friend? 🤗 follow me on instagram! 💥😇👾| @arts.andy_studio |👾😇💥  \r  💥👾💮I like RPG Games, and I'm developing one RPG right now!💮👾💥",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
